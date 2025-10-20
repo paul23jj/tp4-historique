@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Ligne A – première note
 Ligne B – deuxième note
 Ligne C – troisième note
+=======
+Ligne A – première note
+>>>>>>> parent of 41a0934 (deuxieme commit)
